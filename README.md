@@ -1,5 +1,9 @@
 # Data-Science
 code for data analysis
+- pima_diabetes_grid_search.ipynb
+   
+  Prediction of diabetes of Pima-indians using deep leaning with grid search
+  
 - wisconsin-breast-cancer-practice.ipynb
   
   Prediction of breast cancer using various machine learning algorithms
